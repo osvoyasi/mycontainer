@@ -1,0 +1,42 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'D:/JavaProjects/mycontainer/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/JavaProjects/mycontainer/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'mycontainer 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'mycontainer 1.0-SNAPSHOT API'
+org.example
+D:\JavaProjects\mycontainer\src\main\java = 1761489214063
+D:\JavaProjects\mycontainer\target\reports\apidocs\allclasses-index.html = 1761490182765
+D:\JavaProjects\mycontainer\target\reports\apidocs\allpackages-index.html = 1761490182769
+D:\JavaProjects\mycontainer\target\reports\apidocs\element-list = 1761490182724
+D:\JavaProjects\mycontainer\target\reports\apidocs\help-doc.html = 1761490182810
+D:\JavaProjects\mycontainer\target\reports\apidocs\index-all.html = 1761490182794
+D:\JavaProjects\mycontainer\target\reports\apidocs\index.html = 1761490182803
+D:\JavaProjects\mycontainer\target\reports\apidocs\member-search-index.js = 1761490182776
+D:\JavaProjects\mycontainer\target\reports\apidocs\module-search-index.js = 1761490182771
+D:\JavaProjects\mycontainer\target\reports\apidocs\overview-tree.html = 1761490182752
+D:\JavaProjects\mycontainer\target\reports\apidocs\package-search-index.js = 1761490182773
+D:\JavaProjects\mycontainer\target\reports\apidocs\search.html = 1761490182798
+D:\JavaProjects\mycontainer\target\reports\apidocs\tag-search-index.js = 1761490182779
+D:\JavaProjects\mycontainer\target\reports\apidocs\type-search-index.js = 1761490182775
